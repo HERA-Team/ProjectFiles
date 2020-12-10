@@ -22,10 +22,11 @@ Discrimination refers to bias or prejudice resulting in denial of opportunity, o
 
 ## Definition of Microaggressions
 
-Microaggressions are subtle discriminatory statements where often the people saying them are well-intentioned and do not realize their words are rooted in their own unconscious bias. Some examples of this include but are not limited to telling a black colleague they are ‘so articulate,’ telling a transgender individual they ‘do not look transgender,’ mixing up coworkers’ names of the same race or ethnicity, asking people where they ‘are actually from,’ telling someone their name ‘is very hard to pronounce,’ and saying that a black woman’s natural hair is ‘unprofessional.’ Comments related to an individual’s race, ethnicity, gender identity or expression, sexual orientation, or anything else concerning their personal identity or appearance is unnecessary and can make colleagues feel uncomfortable and unsafe.
+Microaggressions are subtle discriminatory statements where often the people saying them are well-intentioned and do not realize their words are rooted in their own unconscious bias. Some examples of this include but are not limited to telling a black colleague they are ‘so articulate,’ telling a transgender individual they ‘do not look transgender,’ mixing up coworkers’ names of the same race or ethnicity, asking people where they ‘are actually from,’ telling someone their name ‘is very hard to pronounce', and saying that a black woman’s natural hair is ‘unprofessional’. Comments related to an individual’s race, ethnicity, gender identity or expression, sexual orientation, or anything else concerning their personal identity or appearance is unnecessary and can make colleagues feel uncomfortable and unsafe.
+
 ## Addressing Racism
 
-It is important that every person acknowledges that everyone has unconscious biases, whether that’s towards others or internalized. Racism is not a binary concept where there are ‘good non-racist people’ and ‘bad racist people.’ Every person has a responsibility to acknowledge that they have racist biases, whether conscious or unconscious, and work to combat them within themselves. Striving to be anti-racist does not mean you have no racist biases; the path to becoming anti-racist as an organization and as individuals means spreading awareness and addressing issues when they come up instead of ignoring them. All collaborators must agree that if someone tells you something you did was racist, insensitive, or discriminatory, the best and most effective course of action to take is to apologize and listen to learn how to improve for the future.
+It is important that every person acknowledges that everyone has unconscious biases, whether towards others or internalized. Racism is not a binary concept where there are ‘good non-racist people’ and ‘bad racist people.’ Every person has a responsibility to acknowledge that they have racist biases, whether conscious or unconscious, and work to combat them within themselves. Striving to be anti-racist does not mean you have no racist biases; the path to becoming anti-racist as an organization and as individuals means spreading awareness and addressing issues when they come up instead of ignoring them. All collaborators must agree that if someone tells you something you did was racist, insensitive, or discriminatory, the best and most effective course of action to take is to apologize and listen to learn how to improve for the future.
 
 ## Definition of Retaliation
 
@@ -39,11 +40,25 @@ This policy applies to all participants in the HERA Collaboration in all collabo
 
 It is important that every collaborator is responsible with agreeing to not partake in discriminatory behaviors and actions and also to take action when witnessing these behaviors second-hand. It is often very difficult for victims of discrimination or harassment to report incidents as oftentimes the person in power will not believe the person coming forward and/or not give the perpetrator a suitable punishment; oftentimes people not involved will have negative thoughts and feelings about the person coming forward for reporting it. That is why it is very important that every collaborator commits to being an ally to report incidents of discrimination or harassment even if the comment or action does not directly affect them personally. Good allies will also listen and be respectful to others if they come forward with sharing an experience of discrimination or harassment towards them.
 
-Any member of the HERA Collaboration who believes that she or he has been subjected to harassment should reach out for help. Resources available include:
+Any member of the HERA Collaboration who believes that they have been subjected to harassment should reach out for help. Resources available include:
 
  - Your research mentor or supervisor
  - The HERA PI at your site
- - The HERA Executive Board (PI Aaron Parsons, aparsons@berkeley.edu, or Program Manager David DeBoer, ddeboer@berkeley.edu)
+ - The HERA Executive Board:
+    - Judd Bowman – Arizona State University
+    - Daniel Jacobs – Arizona State University
+    - Aaron Parsons (Chair) – University of California Berkeley
+    - Steve Furlanetto – University of California Los Angeles
+    - Paul Alexander – University of Cambridge
+    - Jacqueline Hewitt – Massachusetts Institute of Technology
+    - Adrian Liu – McGill University
+    - Chris Carilli – National Radio Astronomy Observatory
+    - Phillip Bull – Queen Mary University of London
+    - James Aguirre – University of Pennsylvania
+    - Andrei Mesinger – Scuola Normale Superiore di Pisa
+    - Gianni Bernardi – SKA-South Africa
+    - Bryna Hazelton – University of Washington
+    - David DeBoer, ddeboer@berkeley.edu
  - Your home campus Title IX office or equivalent (should one exist)
  - Your home campus Ombuds office or equivalent (should one exist)
 
@@ -52,6 +67,9 @@ Note that many faculty and staff members at your institution (possibly including
 Advice for reporting sexual or other forms of harassment is available on the website of the Committee on the Status of Women in Astronomy (CSWA). Here is a summary of the more detailed information available on the CSWA website:
 
 Write everything down (times, places, nature of the incident, and comments made). Save emails, notes, etc. Tell someone you trust. If you decide to file a formal complaint, and depending on the policies of your host institution, it is likely that you will have to write and sign an official letter of complaint, documenting the nature of the harassment and/or discrimination. Be as detailed as possible. Supporting documentation and statements from witnesses should be submitted with your letter.
+
+For reporting more minor infractions such as independent incidents of microagressions, an informal process of mediation through a mentor or ombuds-person is also available. Mediated processes are education based where the person who reported the incident and the mediator can explain to the perpetrator why what they said or did was hurtful and/or rooted in their own biases. The goal of the mediated process is for the perpetrator to apologize and learn from their mistakes, but harsher punishments can be sought after if the perpetrator fails to stop.
+
 
 ## Responding to an Incident Report
 
