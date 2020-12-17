@@ -32,7 +32,6 @@
 	Joshua Kerrigan
 	Adam Lanman
 	Jonathan C. Pober
-	Peter Sims
 
 @Department of Physics and Astronomy, University of California, Los Angeles, CA
 	Steven R. Furlanetto
@@ -123,6 +122,7 @@
 	Adrian Liu
 	Saurabh Singh
 	Jianrong Tan
+	Peter Sims
 
 @Department of Physics and Astronomy,  University of Western Cape, Cape Town, 7535, South Africa
 	Abhik Ghosh
@@ -152,4 +152,4 @@
 &liu 0000-0001-6876-0928
 &thyagarajan 0000-0003-1602-7868
 &williams 0000-0003-3734-3587
-
+&sims 0000-0002-2871-0413
