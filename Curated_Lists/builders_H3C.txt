@@ -25,7 +25,7 @@
 	Judd D. Bowman
 	Daniel C. Jacobs
 	Matthew Kolopanis 
-	Steven Murray
+	Steven G. Murray
 
 @Department of Physics, Brown University, Providence, RI
 	Jacob Burba
@@ -153,3 +153,4 @@
 &thyagarajan 0000-0003-1602-7868
 &williams 0000-0003-3734-3587
 &sims 0000-0002-2871-0413
+&murray 0000-0003-3059-3823
